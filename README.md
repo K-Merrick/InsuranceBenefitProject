@@ -1,2 +1,5 @@
 # InsuranceBenefitProject
-Project aimed at creating a model to predict number of insurance claims.
+
+Sure Tomorrow is an insurance company that wants to solve several tasks with the help of machine learning. The tasks involve grouping similar customers, predicting whether a new customer is likely to receive an insurance benefit, predicting the number of insurance benefits a new customer is likely to receive, and masking clients' personal data using matrix transformation. We will approach these tasks in separate sections in this project.
+
+**Summary**: We demonstrated that it is possible to build models that meet Sure Tomorrow's requirements; this includes clustering observations, predicting whether an individual is likely to receive insurance benefits and, if so, how many, and obfuscating data. We believe that Sure Tomorrow could use versions of the models tested in the project to increase revenue through targeted advertisement and selective policy pricing. Our only recommendation is that Sure Tomorrow analysts look into the clustered observations to determine which features are most determinant of which cluster an individual belongs, as well as how to use this information to increase revenue.
